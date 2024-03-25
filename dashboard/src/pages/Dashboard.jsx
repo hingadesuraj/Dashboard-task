@@ -1,8 +1,11 @@
 import React from 'react'
+import Navigation from '../components/Navigation'
 
 const Dashboard = () => {
   return (
-    <div>Dashboard</div>
+    <div>
+       <h1>Dashbaord</h1>
+    </div>
   )
 }
 
