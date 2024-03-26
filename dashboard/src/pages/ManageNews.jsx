@@ -29,7 +29,7 @@ const ManageNews = () => {
             <td>School Bussiness</td>
             <td>10/12/2023</td>
             <td>Publish | Draft</td>
-            <td className="" >
+            <td className="">
               <button className="bg-gray-400  hover:bg-gray-700 text-white font-bold py-2 px-4 rounded  mr-2  ">
                 Edit
               </button>
@@ -54,22 +54,18 @@ const ManageNews = () => {
                   <h3 className="text-lg font-bold">Article 1</h3>
                   <p className="text-sm">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Minus nihil quam, perferendis natus quaerat laborum illo
+                    quis nam possimus, at maxime vitae fuga itaque nesciunt!
+                    Quas officia, molestiae officiis quis, culpa reprehenderit
+                    voluptates quam, hic veniam ex animi rem nostrum id nobis
+                    perferendis. Odit aliquam veniam ab facilis deleniti
+                    corporis.
                   </p>
+                  <p>Author:Bhau Singh</p>
+                  <h5>Category : Bussiness</h5>
                 </div>
-                <div className="bg-gray-100 p-4 rounded-lg mb-4">
-                  <h3 className="text-lg font-bold">Article 2</h3>
-                  <p className="text-sm">
-                    Sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
-                  </p>
-                </div>
-                <div className="bg-gray-100 p-4 rounded-lg mb-4">
-                  <h3 className="text-lg font-bold">Article 3</h3>
-                  <p className="text-sm">
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                    laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
-                </div>
+
                 <button
                   onClick={handleCloseClick}
                   className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded mt-4"
