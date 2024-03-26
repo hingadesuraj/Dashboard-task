@@ -38,7 +38,7 @@ const UserRegistration = () => {
     },
     {
       name: "May",
-      user: 4800,
+      user: 20000,
       amt: 2181,
     },
     {
@@ -53,12 +53,12 @@ const UserRegistration = () => {
     },
     {
       name: "August",
-      user: 4300,
+      user: 500,
       amt: 2100,
     },
     {
       name: "September",
-      user: 4300,
+      user: 16895,
       amt: 2100,
     },
     {
@@ -73,7 +73,7 @@ const UserRegistration = () => {
     },
     {
       name: "December",
-      user: 4300,
+      user: 28000,
       amt: 2100,
     },
   ];
