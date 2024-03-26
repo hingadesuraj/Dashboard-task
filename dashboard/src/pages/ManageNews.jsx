@@ -30,7 +30,7 @@ const ManageNews = () => {
             <td>10/12/2023</td>
             <td>Publish | Draft</td>
             <td className="" >
-              <button className="bg-gray-400  hover:bg-gray-700 text-white font-bold py-2 px-4 rounded  mr-2 ">
+              <button className="bg-gray-400  hover:bg-gray-700 text-white font-bold py-2 px-4 rounded  mr-2  ">
                 Edit
               </button>
               <button className="bg-red-500   hover:bg-red-700 text-white font-bold py-2 px-4 rounded  mr-2 ">
