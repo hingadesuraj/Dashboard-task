@@ -81,9 +81,9 @@ const UserRegistration = () => {
   return (
     <div>
       <div className="border-b-2" >
-        <h2 className="text-xl font-semibold text-center p-2" >User Registrations Over Time</h2>
+        <h2 className="text-xl font-semibold text-center p-2 ml-2" >User Registrations Over Time</h2>
 
-        <LineChart width={1100} height={300} data={data}>
+        <LineChart width={1200} height={300} data={data}>
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="name" padding={{ left: 30, right: 30 }} />
           <YAxis />
