@@ -44,10 +44,11 @@ const Dashboard = () => {
 
         {/* right side */}
         <div>
-          <h2 className="font-semibold text-center ">Top Performore news</h2>
+          <h2 className="font-bold underline pl-2 ">Top Performore news</h2>
           <News title={"Top IIT Students Start There own bussiness"} article={"Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ducimus vel sint totam minus! Natus, vel!"} views={125} like={45} share={2} />
-          <News />
-          <News />
+          <News title={"Top IIT Students Start There own bussiness"} article={"Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ducimus vel sint totam minus! Natus, vel!"} views={125} like={45} share={2} />
+          <News title={"Top IIT Students Start There own bussiness"} article={"Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ducimus vel sint totam minus! Natus, vel!"} views={125} like={45} share={2} />
+           
         </div>
       </div>
     </div>
