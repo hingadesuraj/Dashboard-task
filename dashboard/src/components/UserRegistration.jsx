@@ -90,7 +90,7 @@ const UserRegistration = () => {
           <Tooltip />
           {/* <Legend /> */}
           <Line
-            type="monotone"
+            type="monotone" 
             dataKey="user"
             stroke="#8884d8"
             activeDot={{ r: 8 }}
