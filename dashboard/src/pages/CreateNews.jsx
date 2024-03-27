@@ -2,7 +2,9 @@ import React from 'react'
 
 const CreateNews = () => {
   return (
-    <div>CreateNews</div>
+    <div>
+        {/* add form with video/image uplad button */}
+    </div>
   )
 }
 
